@@ -19,6 +19,7 @@
     "typescript": "^6.0.3"
   },
   "dependencies": {
+    "@ai-sdk/alibaba": "^1.0.25",
     "@ai-sdk/deepseek": "^2.0.35"
   }
 }

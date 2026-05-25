@@ -18,3 +18,4 @@ const result = await generateText({
 });
 
 console.log(result.output)
+console.log(result.text)
